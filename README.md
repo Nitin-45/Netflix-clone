@@ -1,6 +1,6 @@
 # :fire:Netflix Clone Using React.JS:fire:
 
-<img src="https://i.ibb.co/cw6xq4Z/image.png"/>
+<img src="https://camo.githubusercontent.com/257c532b19f9b833cb5ba918bf55d91bb5e260ac2072532cc12503bc5f5ae643/68747470733a2f2f692e6962622e636f2f6377367871345a2f696d6167652e706e67"/>
 
 ### Try It Out : https://brave-wright-8cace2.netlify.app/
 
